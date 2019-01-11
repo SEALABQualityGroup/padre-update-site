@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/it.univaq.disim.sealab.padre.feature_1.0.1.jar" id="it.univaq.disim.sealab.padre.feature" version="1.0.1">
+      <category name="it.univaq.disim.sealab.padre"/>
+   </feature>
+   <category-def name="it.univaq.disim.sealab.padre" label="Performance Antipattern Detection"/>
+</site>
